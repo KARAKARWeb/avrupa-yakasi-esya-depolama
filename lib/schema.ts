@@ -9,6 +9,7 @@ export function generateLocalBusinessSchema(config: any) {
       streetAddress: config.contact.address,
       addressLocality: config.location.city,
       addressRegion: config.location.city,
+      postalCode: '34303',
       addressCountry: 'TR',
     },
     geo: {
@@ -116,6 +117,7 @@ export function generateServiceSchema(config: any, prices: any) {
         '@type': 'PostalAddress',
         streetAddress: config.contact.address,
         addressLocality: config.location.city,
+        postalCode: '34303',
         addressCountry: 'TR',
       },
     },
@@ -150,6 +152,7 @@ export function generateContactPageSchema(config: any) {
         '@type': 'PostalAddress',
         streetAddress: config.contact.address,
         addressLocality: config.location.city,
+        postalCode: '34303',
         addressCountry: 'TR',
       },
       geo: {

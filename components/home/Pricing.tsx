@@ -104,12 +104,14 @@ export default function Pricing({ prices, storagePrices: storagePricesProp, movi
         "@type": "Product",
         "name": `${item.type} Eşya Depolama`,
         "description": `${item.volume} metreküp depolama alanı - ${item.type} için uygun`,
+        "image": "https://avrupayakasiesyadepolama.com/images/hero-bg.webp",
+        "url": "https://avrupayakasiesyadepolama.com/#fiyatlar",
         "offers": {
           "@type": "Offer",
           "price": item.price,
           "priceCurrency": "TRY",
           "priceValidUntil": new Date(Date.now() + 90 * 24 * 60 * 60 * 1000).toISOString().split('T')[0],
-          "availability": item.stock > 0 ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
+          "availability": "https://schema.org/InStock",
           "itemCondition": "https://schema.org/NewCondition",
           "seller": {
             "@type": "Organization",
