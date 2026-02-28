@@ -1,0 +1,860 @@
+{
+  "pageHeaders": {
+    "iletisim": "Ekspertiz randevusu alın, metreküp hesabınızı öğrenin, kilitli oda planınızı bugün netleştirin.",
+    "hizmetBolgeleri": "Avrupa Yakası ilçe ve mahalle servislerimizi görün; Taşınmalarda geçiş depolaması planlayın.",
+    "hakkimizda": "Sözleşme, sigorta ve envanter düzenimizle Avrupa Yakası’nda depolamayı ölçülebilir kılıyoruz, güven veriyoruz."
+  },
+  "smtpSettings": {
+    "host": "smtp.yandex.com",
+    "port": "465",
+    "secure": true,
+    "user": "info@kozcuoglunakliyat.com.tr",
+    "pass": "eesfapzkvxghcrqu",
+    "from": "info@kozcuoglunakliyat.com.tr",
+    "to": "info@kozcuoglunakliyat.com.tr"
+  },
+  "seoSettings": {
+    "homepage": {
+      "title": "Avrupa Yakası Eşya Depolama | Kilitli Oda + Ücretsiz Sigorta",
+      "description": "Avrupa Yakası Eşya Depolama ile kilitli oda, 7/24 kamera, sözleşme ve ücretsiz sigorta ayrıcalığıyla eşyalarınız güvende. Aynı gün kolayca teklif alın.",
+      "keywords": "eşya depolama, istanbul, avrupa yakası, güvenli depolama, klimalı depo, avrupa yakası depo kiralama, kilitli oda depolama, sözleşmeli depo çözümü, ücretsiz sigorta teminatı, randevulu eşya teslimi"
+    },
+    "about": {
+      "title": "Hakkımızda | Avrupa Yakası Eşya Depolama",
+      "description": "Hakkımızda sayfamızda ekspertiz yaklaşımımızı, depo altyapısını ve sözleşme disiplinimizi okuyun. Avrupa Yakası’nda güvenli depolama için bizi tanıyın.",
+      "keywords": "depo tesis altyapısı, ekspertiz metreküp hesabı, envanter tutanağı sistemi, denetimli depo düzeni, sigorta poliçesi süreci<"
+    },
+    "regions": {
+      "title": "Hizmet Bölgeleri | Avrupa Yakası İlçe Mahalle Depolama Ağı",
+      "description": "Hizmet Bölgeleri sayfasında Avrupa Yakası’ndaki ilçe ve mahalle servislerini görürsünüz. Marmaris, Muğla taşınmalarında geçiş depolaması için de arayın.",
+      "keywords": "ilçe mahalle depolama servisi, avrupa yakası teslim randevusu, adres bazlı ekspertiz, geçiş depolama planı, asansörlü taşıma rotası"
+    },
+    "contact": {
+      "title": "İletişim | Avrupa Yakası Eşya Depolama Teklif ve Randevu",
+      "description": "İletişim sayfasından ekspertiz randevusu alın, metreküp hesabını öğrenin ve kilitli oda seçin. Avrupa Yakası’nda depo için tek aramayla başlayın.",
+      "keywords": "ekspertiz randevu talebi, depo teklif formu, metreküp fiyat öğrenme, randevulu teslim planı, depo erişim kaydı"
+    }
+  },
+  "priceCalculatorForm": {
+    "title": "Ücretsiz Fiyat Teklifi Alın",
+    "namePlaceholder": "Ad Soyad",
+    "phonePlaceholder": "Telefon: 5XX XXX XX XX",
+    "apartmentLabel": "Daire Tipi",
+    "durationLabel": "Depolama Süresi",
+    "servicesLabel": "Ek Hizmetler (Opsiyonel)",
+    "submitButton": "Hemen Teklif Al",
+    "submitButtonDisabled": "Bilgilerinizi Girin",
+    "priceLabel": "Tahmini Toplam Fiyat",
+    "infoText": "Fiyat görmek için ad soyad ve telefon bilgilerinizi giriniz.",
+    "servicePrices": {
+      "tasima": 300,
+      "montaj": 200,
+      "ambalaj": 150,
+      "klimali": 100,
+      "sigorta": 150
+    },
+    "apartmentTypes": [
+      {
+        "value": "1+0",
+        "label": "1+0 Daire",
+        "volume": 8,
+        "monthlyPrice": 2700
+      },
+      {
+        "value": "1+1",
+        "label": "1+1 Daire",
+        "volume": 17,
+        "monthlyPrice": 4000
+      },
+      {
+        "value": "2+1",
+        "label": "2+1 Daire",
+        "volume": 24,
+        "monthlyPrice": 6500
+      },
+      {
+        "value": "3+1",
+        "label": "3+1 Daire",
+        "volume": 30,
+        "monthlyPrice": 7500
+      },
+      {
+        "value": "4+1",
+        "label": "4+1 Daire",
+        "volume": 40,
+        "monthlyPrice": 11000
+      }
+    ],
+    "durationOptions": [
+      {
+        "value": 1,
+        "label": "1 Ay"
+      },
+      {
+        "value": 2,
+        "label": "2 Ay"
+      },
+      {
+        "value": 3,
+        "label": "3 Ay"
+      },
+      {
+        "value": 6,
+        "label": "6 Ay"
+      },
+      {
+        "value": 12,
+        "label": "12 Ay (1 Yıl)"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Hero",
+    "mainHeading": "Avrupa Yakası Eşya Depolama",
+    "description": "Avrupa Yakası Eşya Depolama, taşınma arası bekleyen eşyalarınızı güvenli depolarda korur; ekspertizle hacmi ölçer, oda planı çıkarır, paketlemeyi rulo ambalaj ve köpükle tamamlar, sözleşme ve sigorta poliçesiyle teslim gününe kadar düzenli takip eder, titizlikle raporlar.",
+    "trustBadges": [
+      {
+        "icon": "FileText",
+        "text": "Sözleşmeli Eşya Depolama",
+        "description": "Depo girişinde yazılı sözleşme imzalarız; süre, ücret, haklar, sorumluluklar ve teslim koşulları netleşir.\n"
+      },
+      {
+        "icon": "Shield",
+        "text": "Sigortalı Eşya Depolama",
+        "description": "Sigorta poliçesiyle yangın, hırsızlık, su baskını, doğal afet ve kırılma riskleri güvenceye alınır.\n"
+      },
+      {
+        "icon": "CheckCircle",
+        "text": "Güvenlik Protokolleri",
+        "description": "Personel yetkileri, anahtar devri, ziyaret kuralları ve alarm prosedürüyle depoda disiplinli güvenlik kurulur.\n"
+      },
+      {
+        "icon": "Camera",
+        "text": "7/24 Kamera Sistemleri",
+        "description": "Girişler ve koridorlar kesintisiz kaydedilir; görüntüler şifreli arşivlenir, denetimde anında erişilir, güvenle saklanır.\n"
+      },
+      {
+        "icon": "Flame",
+        "text": "Yangın Güvenlik Sistemleri",
+        "description": "Duman algılama, siren, acil yönlendirme, yangın tüpleri ve tatbikat planıyla hızlı müdahale yapılır.\n"
+      },
+      {
+        "icon": "Droplets",
+        "text": "Nem ve Hijyen Kontrolü",
+        "description": "Nem sensörleri izler; havalandırma, dezenfeksiyon, temizlik çizelgesi ve koku kontrolüyle küf riski düşürülür.\n"
+      },
+      {
+        "icon": "LogIn",
+        "text": "Giriş-Çıkış Kayıtları",
+        "description": "Her giriş-çıkış kimlik doğrulamasıyla kaydedilir; saat, araç, oda ve yetkili görevli bilgisi saklanır.\n"
+      },
+      {
+        "icon": "Lock",
+        "text": "Kilitli Oda Sistemi",
+        "description": "Her oda ayrı kilitlenir; anahtar sizde kalır, yetkisiz temas ve karışıklık ihtimali engellenir.\n"
+      },
+      {
+        "icon": "DoorOpen",
+        "text": "Kişiye Özel Oda Sistemi",
+        "description": "Metreküp hesabına göre oda ayrılır; raf yerleşimi, kutu sıralaması ve etiketleme size özel olur.\n"
+      },
+      {
+        "icon": "Calendar",
+        "text": "Randevulu Teslimat",
+        "description": "Teslim saatini planlarız; yükleme alanı hazırlanır, asansörlü taşıma ve ekip akışı belirgin hızlanır.\n"
+      },
+      {
+        "icon": "ClipboardList",
+        "text": "Eşya Envanter Tutanağı",
+        "description": "Kutular numaralanır; içerik listesi tutulur, fotoğraf eklenir, teslimde karşılaştırma yapılarak kayıp ihtimali azalır.\n"
+      },
+      {
+        "icon": "Eye",
+        "text": "Periyodik Depo Denetimi",
+        "description": "Yetkili ekip düzenli kontrol yapar; kilit, kamera, hijyen, nem ve raf düzeni raporlanır."
+      }
+    ]
+  },
+  "seo1": {
+    "title": "İstanbul Avrupa Yakası Eşya Depolama",
+    "content": "<p style=\"text-align: center;\">İstanbul Avrupa Yakası’nda eşyalarınız için ölçülü depolama arıyorsanız, doğru plan şarttır. Ekspertiz ekibimiz adresinize gelir, metreküp hesabı çıkarır, oda tipini belirler. Çift kat streç film, köpük koruma ve rulo ambalajla paketleme yaparız. Her koli numaralanır, envanter tutanağı imzalanır, fotoğraflar dosyalanır. Sigorta poliçesi düzenlenir, teminat limiti seçtiğiniz süreye göre yazılır. Taşıma günü asansörlü taşıma kurulur, yükleme sırası hiç karışmaz. Detayları hizmet seçenekleri sayfamızda inceleyebilirsiniz.</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"></p><p style=\"text-align: center;\">Depo alanlarımızda kilitli oda ve kişiye özel oda sistemi birlikte çalışır. Giriş-çıkış kayıtları kimlikle tutulur, kamera kayıtları arşivlenir, denetimde açılır. Yangın algılama ve alarm hatları düzenli test edilir, nem sensörleri günlük veri üretir. Evrak, ofis ve e-ticaret stokları için raf planı hazırlayıp etiket uygularız. Avrupa Yakası’ndaki her ilçenin kendi mahallesi için randevu planlarız. Taşınacak eşyalar için geçiş depolaması da kurarız. Teslimatta kimlik doğrular, eşyayı tutanakla çıkarırız. Sözleşme maddelerini hakkımızda bölümünde kısaca bulursunuz.</p>"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "İstanbul genelinde, ihtiyacınıza göre planlanan depolama çözümleriyle eşyalarınız güvende kalır.",
+    "description": "Her kart, doğru oda tipini seçmenize yardım eder; fiyat ve süre net görünür.",
+    "services": [
+      {
+        "id": "esya-depolama",
+        "icon": "Warehouse",
+        "title": "Eşya Depolama Hizmeti",
+        "description": "Metreküpe göre oda seçer, teslim gününü netleştirir, raporları paylaşırız.\n"
+      },
+      {
+        "id": "ev-esyasi",
+        "icon": "Home",
+        "title": "Ev Eşyası Depolama",
+        "description": "Mobilya ve beyaz eşyayı köpükle sarar, kilitli odada saklarız.\n"
+      },
+      {
+        "id": "ofis-esyasi",
+        "icon": "Briefcase",
+        "title": "Ofis Eşyası Depolama",
+        "description": "Dosya, demirbaş ve cihazları envanterle kayda alır, etiketleyip düzenleriz.\n"
+      },
+      {
+        "id": "kurumsal",
+        "icon": "Building2",
+        "title": "Kurumsal Depolama",
+        "description": "Süreç, sözleşme ve raporlamayı şirket standartlarına uygun biçimde yönetiriz.\n"
+      },
+      {
+        "id": "arsiv-evrak",
+        "icon": "FileText",
+        "title": "Arşiv / Evrak Depolama",
+        "description": "Klasörleri raf kodlarıyla dizer, istenen dosyayı hızlıca bulup çıkarırız.\n"
+      },
+      {
+        "id": "e-ticaret",
+        "icon": "ShoppingCart",
+        "title": "E-Ticaret Depolama",
+        "description": "Stokları barkodla ayırır, siparişe göre toplama ve paketleme yaparız.\n"
+      },
+      {
+        "id": "koli-depolama",
+        "icon": "Package",
+        "title": "Koli Depolama",
+        "description": "Numaralı kolileri sağlam paletle istifler, ezilme riskini belirgin azaltırız."
+      },
+      {
+        "id": "ozel-esya",
+        "icon": "Star",
+        "title": "Özel Eşya Depolama",
+        "description": "Değerli parçaları ayrı odada saklar, erişimi randevuyla net biçimde sınırlarız."
+      },
+      {
+        "id": "parca-esya",
+        "icon": "Grid3x3",
+        "title": "Parça Eşya Depolama",
+        "description": "Az hacimli eşyayı paylaşımlı alanla birleştirir, bütçeyi daha iyi dengeleriz"
+      }
+    ]
+  },
+  "features": {
+    "title": "Neden Biz?",
+    "subtitle": "İstanbul Avrupa Yakası’nda depolama kararını ölçü, sözleşme ve denetim disiplinimizle kolaylaştırırız.",
+    "description": "Kartlardaki avantajlar birleşince, depoda düzen ve erişim planı sizin adınıza sürekli korunur.",
+    "features": [
+      {
+        "id": "paketleme",
+        "icon": "Package",
+        "title": "Profesyonel Paketleme",
+        "description": "Uzman ekibimiz eşyalarınızı özenle paketler. Özel ambalaj malzemeleri ile tam koruma."
+      },
+      {
+        "id": "ekip",
+        "icon": "Users",
+        "title": "Deneyimli Ekip",
+        "description": "Alanında uzman, eğitimli ve sigortalı personelimizle güvenli hizmet."
+      },
+      {
+        "id": "temizlik",
+        "icon": "Sparkles",
+        "title": "Hijyen ve Temizlik",
+        "description": "Depolarımız düzenli olarak temizlenir ve dezenfekte edilir. Hijyenik ortam garantisi."
+      },
+      {
+        "id": "nakliyat",
+        "icon": "Truck",
+        "title": "Evden Eve Nakliyat",
+        "description": "Profesyonel nakliyat hizmetimizle eşyalarınızı güvenle taşıyoruz."
+      },
+      {
+        "id": "danismanlik",
+        "icon": "Headphones",
+        "title": "Depolama Danışmanlığı",
+        "description": "Uzman ekibimiz size en uygun depolama çözümünü önerir. Ücretsiz keşif ve danışmanlık."
+      },
+      {
+        "id": "asansor",
+        "icon": "MoveVertical",
+        "title": "Asansörlü Taşıma",
+        "description": "Yüksek katlarda asansörlü taşıma hizmeti. Eşyalarınız güvenle ve kolayca taşınır."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Süreç Nasıl İşliyor?",
+    "subtitle": "5 basit adımda eşyalarınızı güvenle depolayın",
+    "steps": [
+      {
+        "number": "01",
+        "icon": "Phone",
+        "title": "Bizi Arayın",
+        "description": "Kısa bilgi verin, adresi alın, ekspertiz saatini birlikte planlayalım."
+      },
+      {
+        "number": "02",
+        "icon": "Calculator",
+        "title": "Fiyat & Teklif",
+        "description": "Metreküp hesabına göre net fiyat çıkarır, sözleşme maddelerini paylaşırız."
+      },
+      {
+        "number": "03",
+        "icon": "Truck",
+        "title": "Paketleme ve Nakliyat",
+        "description": "Streç, battaniye, köpük kullanır; asansörlü taşıma ile yüklemeyi hızlandırırız."
+      },
+      {
+        "number": "04",
+        "icon": "Key",
+        "title": "Depolama ve Teslimat",
+        "description": "Odaya yerleştirir, envanteri duvara asar; teslimi randevuyla dikkatle tamamlarız."
+      },
+      {
+        "number": "05",
+        "icon": "CheckCircle",
+        "title": "İstediğiniz Zaman Erişin",
+        "description": "Kimlik doğrular, oda kapısını açar; eşyayı tutanakla sorunsuz alırsınız."
+      }
+    ]
+  },
+  "storageSizes": {
+    "title": "Daire Tipine Göre Depolama Paketleri",
+    "subtitle": "Daire büyüklüğüne göre oda, koli ve taşıma planını kolayca seçin.",
+    "description": "Paketler, metreküp ve süreye göre şekillenir; ücretsiz sigorta teminatı otomatik dahil edilir.",
+    "packages": [
+      {
+        "icon": "Home",
+        "size": "8 m³",
+        "title": "1+0 Daire",
+        "description": "Tek kişilik yaşam alanı için ideal.",
+        "examples": [
+          "Masa sandalye",
+          "Mutfak eşyaları",
+          "Kişisel eşyalar",
+          "Mevsimlik kıyafetler"
+        ],
+        "highlight": "Özel Paketleme Dahil",
+        "color": "bg-blue-500/10",
+        "price": "2.700₺/ay"
+      },
+      {
+        "icon": "Building",
+        "size": "17 m³",
+        "title": "1+1 Daire",
+        "description": "Çift veya küçük aileler için.",
+        "examples": [
+          "Çift kişilik yatak",
+          "2-3 kişilik koltuk",
+          "Buzdolabı",
+          "Çamaşır makinesi",
+          "TV ünitesi",
+          "Yemek masası"
+        ],
+        "highlight": "Özel Paketleme Dahil",
+        "color": "bg-blue-500/10",
+        "price": "4.000₺/ay"
+      },
+      {
+        "icon": "Building2",
+        "size": "24 m³",
+        "title": "2+1 Daire",
+        "description": "Orta boy aileler için komple paket.",
+        "examples": [
+          "2 yatak odası",
+          "Salon takımı",
+          "4-6 kişilik masa",
+          "Beyaz eşyalar",
+          "TV ünitesi",
+          "Çocuk odası"
+        ],
+        "highlight": "Özel Paketleme Dahil",
+        "color": "bg-blue-600/15",
+        "price": "6.500₺/ay"
+      },
+      {
+        "icon": "Warehouse",
+        "size": "30 m³",
+        "title": "3+1 Daire",
+        "description": "Geniş aileler için kapsamlı çözüm.",
+        "examples": [
+          "3 yatak odası",
+          "Geniş salon takımı",
+          "6-8 kişilik masa",
+          "Çalışma odası",
+          "Beyaz eşyalar",
+          "TV ünitesi"
+        ],
+        "highlight": "Özel Paketleme Dahil",
+        "color": "bg-blue-500/10",
+        "price": "7.500₺/ay"
+      },
+      {
+        "icon": "Hotel",
+        "size": "40 m³",
+        "title": "4+1 Daire",
+        "description": "Lüks daire ve villa için.",
+        "examples": [
+          "4 yatak odası",
+          "Lüks salon takımı",
+          "8+ kişilik masa",
+          "Çalışma odası",
+          "Beyaz eşyalar",
+          "Bahçe mobilyaları",
+          "Spor ekipmanları",
+          "Ekstra depolama"
+        ],
+        "highlight": "Özel Paketleme Dahil",
+        "color": "bg-blue-500/10",
+        "price": "11.000₺/ay"
+      }
+    ]
+  },
+  "securityInfrastructure": {
+    "title": "Eşya Depolama Tesisi Altyapısı",
+    "subtitle": "Avrupa Yakası’nda tesis altyapımız, eşyaların formunu koruyan kontrol katmanlarıyla güçlenir.",
+    "features": [
+      {
+        "icon": "Thermometer",
+        "title": "İklim Kontrolü",
+        "description": "Sıcaklık ve nem dengelenir, mobilya şişmesi ile küf oluşumu azalır.\n"
+      },
+      {
+        "icon": "Zap",
+        "title": "Jeneratör Desteği",
+        "description": "Elektrik kesilince kameralar, alarm ve sensörler her an kesintisiz çalışmayı sürdürür.\n"
+      },
+      {
+        "icon": "Bug",
+        "title": "Haşere Kontrolü",
+        "description": "Periyodik ilaçlama yapılır, paketli alanlarda iz bırakmadan sürekli koruma sağlanır.\n"
+      },
+      {
+        "icon": "KeyRound",
+        "title": "Erişim Kontrol Sistemi",
+        "description": "Kartlı geçişle yetkili hareketi izlenir, izinsiz giriş anında kesin engellenir.\n"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "7/24 Güvenlik Personeli",
+        "description": "Giriş noktası gözetlenir, devriye saatleri ve tüm olay kayıtları tutulur.\n"
+      },
+      {
+        "icon": "Droplets",
+        "title": "Düzenli Dezenfeksiyon",
+        "description": "Ortam yüzeyleri temizlenir, koku, bakteri ve ince toz birikimi engellenir."
+      }
+    ]
+  },
+  "securityInsurance": {
+    "title": "Eşyalarınız Tam Güvence Altında!",
+    "label": "Güvenlik ve Sistemler",
+    "subtitle": "Güvence yapımız, sözleşme, sigorta ve izleme katmanlarını birlikte tam işletir.",
+    "features": [
+      {
+        "icon": "Shield",
+        "title": "Sigortalı Eşya Depolama",
+        "subtitle": "Teminatlı koruma, net poliçe",
+        "details": [
+          "Poliçe numarası",
+          "Teminat limiti",
+          "Hasar bildirimi",
+          "Risk kapsamı",
+          "Belge dosyası",
+          "Kamera desteği"
+        ]
+      },
+      {
+        "icon": "FileText",
+        "title": "Sözleşmeli Eşya Depolama",
+        "subtitle": "Yazılı şartlar, açık sorumluluk",
+        "details": [
+          "Süre maddesi",
+          "Ücret tablosu",
+          "Teslim şartı",
+          "Sorumluluk sınırı",
+          "İmza kayıtları",
+          "İptal kuralı"
+        ]
+      },
+      {
+        "icon": "Lock",
+        "title": "Kilitli Oda Sistemleri",
+        "subtitle": "Anahtar sizde, ayrı alan",
+        "details": [
+          "Ayrı kilit",
+          "Anahtar teslimi",
+          "Oda etiketi",
+          "Yetkili erişim",
+          "Kapı kontrolü",
+          "Temas kaydı"
+        ]
+      },
+      {
+        "icon": "Camera",
+        "title": "7/24 Kamera Sistemleri & İzleme",
+        "subtitle": "Kesintisiz kayıt, kontrollü erişim",
+        "details": [
+          "Koridor kaydı",
+          "Giriş kaydı",
+          "Arşiv süresi",
+          "Şifreli erişim",
+          "Denetim açımı",
+          "Olay kayıtları"
+        ]
+      },
+      {
+        "icon": "Flame",
+        "title": "Yangın ve Alarm Güvenlik Sistemleri",
+        "subtitle": "Erken uyarı, hızlı müdahale",
+        "details": [
+          "Duman sensörü",
+          "Siren hattı",
+          "Acil yönlendirme",
+          "Tüp kontrolü",
+          "Tatbikat planı",
+          "Alarm kaydı"
+        ]
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Periyodik Depo Denetimi",
+        "subtitle": "Düzenli kontrol, kayıtlı rapor",
+        "details": [
+          "Kilit kontrolü",
+          "Nem ölçümü",
+          "Hijyen raporu",
+          "Raf düzeni",
+          "Kamera testi",
+          "İyileştirme notu"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galeri",
+    "subtitle": "Galeri bölümünde paketleme, depo düzeni ve teslim anlarımızı net görürsünüz.",
+    "images": [
+      {
+        "id": "gallery-1772294760753-0",
+        "src": "/gallery/gallery-1772294760738-6h86vyp.jpeg",
+        "alt": "Galeri 1",
+        "title": "Eşya Deposu"
+      },
+      {
+        "id": "gallery-1772294760753-1",
+        "src": "/gallery/gallery-1772294760740-ib1nh.JPG",
+        "alt": "Galeri 2",
+        "title": "Kişiye Özel Kilitli Eşya Deposu"
+      },
+      {
+        "id": "gallery-1772294760753-2",
+        "src": "/gallery/gallery-1772294760741-31l56a.jpeg",
+        "alt": "Galeri 3",
+        "title": "4 Farklı Lokasyon Depo"
+      },
+      {
+        "id": "gallery-1772294760753-3",
+        "src": "/gallery/gallery-1772294760742-q42p7.JPG",
+        "alt": "Galeri 4",
+        "title": "Özel Ambalaj ve Paketleme"
+      },
+      {
+        "id": "gallery-1772294760753-4",
+        "src": "/gallery/gallery-1772294760742-y34hwn.jpeg",
+        "alt": "Galeri 5",
+        "title": "Kilitli Depolar"
+      },
+      {
+        "id": "gallery-1772294760753-5",
+        "src": "/gallery/gallery-1772294760743-11uy1c.JPG",
+        "alt": "Galeri 6",
+        "title": "Profesyonel Paketleme"
+      },
+      {
+        "id": "gallery-1772294760753-6",
+        "src": "/gallery/gallery-1772294760745-j92kt5o.jpeg",
+        "alt": "Galeri 7",
+        "title": "Özel PatPat Paketleme"
+      },
+      {
+        "id": "gallery-1772294760753-7",
+        "src": "/gallery/gallery-1772294760746-nd7jrh.jpeg",
+        "alt": "Galeri 8",
+        "title": "Lokasyon 1 Eşya Deposu"
+      },
+      {
+        "id": "gallery-1772294760753-8",
+        "src": "/gallery/gallery-1772294760746-6jmnlp.JPG",
+        "alt": "Galeri 9",
+        "title": "Depolanan Eşyalar"
+      },
+      {
+        "id": "gallery-1772294760753-9",
+        "src": "/gallery/gallery-1772294760747-kaep3.JPG",
+        "alt": "Galeri 10",
+        "title": "Eşya Depo Koridoru"
+      }
+    ]
+  },
+  "insurancePackages": {
+    "title": "Ücretsiz Sigorta Paketleri",
+    "subtitle": "Ücretsiz sigorta paketlerimiz, her kiralamada ek prim ödemeden güven sağlar.",
+    "infoTitle": "Ücretsiz Sigorta Kapsamı ve Güvencesi",
+    "infoText1": "Aylık ya da yıllık depo kiralamasında, sigorta paketi ücretinize dahil edilir. Ek prim, ek dosya masrafı veya sonradan çıkan kalem ödemezsiniz. Ekspertiz sonrası teminat limiti seçilir, poliçe düzenlenir ve tutanakla dosyalanır. Hasarsız teslim hedefi için paketleme standardı da poliçeye uyumlu yürür. Ayrıntıları kolayca fiyat sayfası üzerinden kıyaslayabilirsiniz.\n",
+    "infoText2": "Tüm sigorta şartları, teminat kapsamı, hasar bildirim adımları ve sorumluluk sınırları sözleşmede yer alır. İmza öncesi maddeleri inceler, sorularınızı sahada ekipten alırsınız. Daire tipine göre belirlenen limitler; yangın, hırsızlık ve doğal afet risklerine karşı eşyalarınızı korur, dosyanızda saklanır. Hasar anında tutanak, fotoğraf ve kamera kaydı öncelikle birlikte değerlendirilir.",
+    "benefits": [
+      "Ek ücret yok",
+      "Sözleşmeli güvence",
+      "Hukuki koruma",
+      "Şeffaf şartlar"
+    ],
+    "packages": [
+      {
+        "title": "1+1 Daire",
+        "coverage": "200.000₺"
+      },
+      {
+        "title": "2+1 Daire",
+        "coverage": "300.000₺",
+        "popular": true
+      },
+      {
+        "title": "3+1 Daire",
+        "coverage": "400.000₺"
+      },
+      {
+        "title": "4+1 Daire",
+        "coverage": "500.000₺"
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Ev Taşıma Fiyatları",
+    "heading": "Şeffaf ve Uygun Fiyatlar",
+    "description": "İstanbul Avrupa Yakası’nda fiyatlar, metreküp, süre ve erişim sıklığına göre netleşir.",
+    "storagePrices": [
+      {
+        "type": "1+0 Daire",
+        "volume": "8",
+        "price": "2.700",
+        "stock": "8 Boş",
+        "features": [
+          "Küçük daireler için",
+          "Temel eşyalar",
+          "Kısa süreli"
+        ]
+      },
+      {
+        "type": "1+1 Daire",
+        "volume": "17",
+        "price": "4.000",
+        "stock": "12 Boş",
+        "features": [
+          "Orta büyüklük daireler",
+          "Standart eşyalar",
+          "Uygun fiyat"
+        ]
+      },
+      {
+        "type": "2+1 Daire",
+        "volume": "24",
+        "price": "6.500",
+        "stock": "7 Boş",
+        "popular": true,
+        "features": [
+          "Geniş daireler",
+          "Çok sayıda eşya",
+          "En popüler"
+        ]
+      },
+      {
+        "type": "3+1 Daire",
+        "volume": "30",
+        "price": "7.500",
+        "stock": "5 Boş",
+        "features": [
+          "Büyük daireler",
+          "Tüm ev eşyaları",
+          "Uzun süreli"
+        ]
+      },
+      {
+        "type": "4+1 Daire",
+        "volume": "40",
+        "price": "11.000",
+        "stock": "2 Boş",
+        "features": [
+          "Çok büyük daireler",
+          "Tam ev taşıma",
+          "Premium hizmet"
+        ]
+      }
+    ],
+    "movingPrices": [
+      {
+        "type": "1+0 Ev Taşıma",
+        "price": "10.000",
+        "features": [
+          "Profesyonel ekip",
+          "Paketleme malzemesi",
+          "Sigortalı taşıma"
+        ]
+      },
+      {
+        "type": "1+1 Ev Taşıma",
+        "price": "15.000",
+        "features": [
+          "Profesyonel ekip",
+          "Paketleme malzemesi",
+          "Sigortalı taşıma"
+        ]
+      },
+      {
+        "type": "2+1 Ev Taşıma",
+        "price": "22.000",
+        "popular": true,
+        "features": [
+          "Profesyonel ekip",
+          "Paketleme malzemesi",
+          "Sigortalı taşıma"
+        ]
+      },
+      {
+        "type": "3+1 Ev Taşıma",
+        "price": "28.000",
+        "features": [
+          "Profesyonel ekip",
+          "Paketleme malzemesi",
+          "Sigortalı taşıma"
+        ]
+      },
+      {
+        "type": "4+1 Ev Taşıma",
+        "price": "37.000",
+        "features": [
+          "Profesyonel ekip",
+          "Paketleme malzemesi",
+          "Sigortalı taşıma"
+        ]
+      }
+    ]
+  },
+  "aboutUs": {
+    "intro": "Depolama işini ölçümle başlatır, kayıtla sürdürür, tutanakla bitiririz. Ekspertiz ekibimiz metreküp hesabını çıkarır, oda planını belirler. Paketlemede streç, köpük ve rulo ambalaj kullanırız. Depoda kilitli oda düzeni kurar, giriş-çıkışı loglarız. Kamera arşivi ve denetim raporlarıyla süreci izlenebilir tutarız. Avrupa Yakası ilçeleri ve mahallelerinde randevulu teslimat planlarız. Marmaris ve Muğla taşınmalarında geçiş depolamasını da aynı disiplinle yönetiriz.",
+    "vision": {
+      "title": "Vizyonumuz.",
+      "content": "Avrupa Yakası’nda depolamayı ölçülebilir, izlenebilir ve hızlı erişilebilir bir standart hâline getirmek."
+    },
+    "mission": {
+      "title": "Misyonumuz.",
+      "content": "Eşyaları sözleşme, sigorta ve kayıt düzeniyle koruyup, randevulu teslimi hatasız yürütmek."
+    },
+    "values": {
+      "title": "Değerlerimiz",
+      "items": [
+        "Şeffaf sözleşme kültürü",
+        "Kayda dayalı takip",
+        "Yerinde ekspertiz disiplini",
+        "Temiz tesis düzeni",
+        "Güvenlikte süreklilik",
+        "Hızlı randevu yönetimi"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Avrupa Yakası’nda aşağıdaki sorular, depolama kararınızı hızlı netleştirmek için hazırlandı.",
+    "questions": [
+      {
+        "id": "faq-1772296433253",
+        "question": "Avrupa Yakası’nda depo seçimi nasıl yapılır?",
+        "answer": "Metreküp hesabını çıkarın, oda tipini seçin, sözleşme maddelerini okuyun.\n"
+      },
+      {
+        "id": "faq-1772296433635",
+        "question": "Sigorta poliçesi hangi riskleri karşılar?",
+        "answer": "Yangın, hırsızlık, su baskını ve doğal afet teminatını poliçede görürsünüz.\n"
+      },
+      {
+        "id": "faq-1772296433794",
+        "question": "Kilitli oda anahtarı kimde kalır?",
+        "answer": "Anahtar size teslim edilir; erişim randevu ve kimlik doğrulamasıyla açılır.\n"
+      },
+      {
+        "id": "faq-1772296433955",
+        "question": "Eşya envanter tutanağı neden gerekir?",
+        "answer": "Koli numarası ve fotoğraf eşleşir; teslimde karşılaştırma çok hızlı yapılır.\n"
+      },
+      {
+        "id": "faq-1772296434113",
+        "question": "Depoya giriş çıkışlar nasıl kaydedilir?",
+        "answer": "Kimlik kontrol edilir; saat, oda ve görevli bilgisi kayıtta tutulur.\n"
+      },
+      {
+        "id": "faq-1772296434281",
+        "question": "Nem kontrolü mobilyayı nasıl korur?",
+        "answer": "\nSensör verisiyle havalandırma ayarlanır; şişme ve koku riski düşer."
+      },
+      {
+        "id": "faq-1772296434476",
+        "question": "Randevulu teslimat ne kazandırır bize?",
+        "answer": "Yükleme alanı hazır olur; ekip akışı hızlanır, bekleme süresi azalır."
+      },
+      {
+        "id": "faq-1772296434639",
+        "question": "Ofis eşyası depolarken nelere bakılır?",
+        "answer": "Demirbaş listesi çıkarılır; raf planı ve etiketleme ile düzen korunur."
+      },
+      {
+        "id": "faq-1772296434806",
+        "question": "Eşya Depolama öncesi taşınmalarında süreç nasıl işler?",
+        "answer": "Geçiş depolaması kurarız; teslim tarihine kadar oda aynı kişi adına korunur."
+      },
+      {
+        "id": "faq-1772296434957",
+        "question": "İlçe mahalle servis planı nasıl belirlenir?",
+        "answer": "İlçenin mahallesi bazında randevu çıkarırız; trafik ve asansör kurulumu planlanır."
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Müşteri Yorumları",
+    "subtitle": "Müşterilerimizin deneyimlerini okuyun ve güvenle hizmet alın",
+    "reviews": [
+      {
+        "id": "review-1",
+        "name": "Ahmet Y.",
+        "rating": 5,
+        "comment": "Çok memnun kaldım, güvenli ve temiz. Kesinlikle tavsiye ederim. Eşyalarım 6 aydır burada, hiçbir sorun yaşamadım.",
+        "date": "2024-01-15",
+        "verified": true
+      },
+      {
+        "id": "review-2",
+        "name": "Ayşe K.",
+        "rating": 5,
+        "comment": "Profesyonel ekip, uygun fiyatlar. Taşıma hizmeti de çok iyi. Teşekkürler.",
+        "date": "2024-01-10",
+        "verified": true
+      },
+      {
+        "id": "review-3",
+        "name": "Mehmet S.",
+        "rating": 4,
+        "comment": "Güvenli ve temiz. Fiyatlar uygun. Tek eksik 7/24 erişim olmaması.",
+        "date": "2024-01-05",
+        "verified": true
+      }
+    ]
+  },
+  "seo2": {
+    "title": "Avrupa Yakası Ev & Ofis Eşya Depolama",
+    "content": "<p>Avrupa Yakası Eşya Depolama arayanlar, ilk gün doğru soruyu sorar: “Kaç metreküp?” Ekspertiz ölçer, oda tipini belirler, depo süresini yazıya döker. İlçe seçiminde mahalle ayrımı önem taşır; her ilçenin mahallesi için ayrı randevu planlarız. İstanbul ve Tüm ilçelerinde taşınmalarında geçiş depolaması kurmak da mümkündür. <strong>Envanter tutanağı</strong> olmadan teslimde hız beklemeyin. Kamera kaydı, giriş-çıkış logu ve nem verisi birlikte takip edilince depoda düzen korunur. Üstelik sigorta poliçesiyle riskler somutlaşır; hangi teminatın hangi limitte olduğunu net görürsünüz. Doğru paketleme streçle bitmez; köpük koruma ve rulo ambalaj şarttır.</p><p>Depolama seçimi yapılırken iki hata sık görülür: süreyi belirsiz bırakmak ve erişim planını düşünmemek. Biz, teslimatın randevuyla yapılmasını sağlarız; böylece kapıda bekleme azalır. Depo altyapısında jeneratör, iklim kontrolü ve haşere planı birlikte çalışmalıdır. Ayrıca sözleşmede sorumluluk sınırları açık yazılmalıdır; hasar anında tutanak ve fotoğraf aynı dosyada olmalıdır. Anadolu Yakası veya Avrupa Yakası yönüne taşınırken eşyalar birkaç hafta bekleyebilir; bu aşamada kilitli oda sistemi kritik olur. <em>Metreküp hesabı</em> doğru yapılınca bütçe de dengelenir. Daha fazla bilgi için <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"/iletisim\">iletişim</a> sayfasından ekspertiz isteyebilirsiniz.</p><ul><li><p>Ekspertiz + metreküp ölçümü</p></li><li><p>Paketleme: streç + köpük + rulo ambalaj</p></li><li><p>Envanter: numara + fotoğraf + tutanak</p></li></ul><p>Plan Kalemi Ne Sağlar? Randevulu erişim Beklemeyi azaltır, teslim akışını hızlandırır Kilitli oda Yetkisiz teması sınırlar, karışıklığı önler Nem kontrolü Koku ve küf riskini düşürür</p><h2>Eşya Depolama Hizmeti</h2><p>Eşya depolama hizmeti, ölçüm ve kayıt disiplinine dayanır. Ekspertizle metreküp belirlenir, oda tipi seçilir. Paketleme streç, battaniye ve köpükle yapılır. Koli numarası ve içerik listesi hazırlanır. Depoya girişte sözleşme imzalanır. Erişim randevuyla planlanır. Böylece teslim günü sürpriz çıkmaz. İlçe ve mahalle planı adres bazında netleşir. İstanbul ve Tüm ilçelerinde taşınmalarında geçiş depolaması ayrı dosyalanır. Depo denetimi raporla desteklenir.</p><h2>İstanbul Eşya Depolama</h2><p>İstanbul eşya depolama arayanlar için lokasyon kadar altyapı da belirleyicidir. Avrupa Yakası’nda trafik ve yükleme alanı farklıdır. Asansörlü taşıma kurulumu önce planlanır. Depo içinde raf düzeni ve oda etiketi işinizi kolaylaştırır. Kamera kayıtları arşivlenir, giriş-çıkış logu tutulur. Nem sensörleriyle iklim dengesi korunur. İstanbul Geneli ve tüm ilçeleri, mahalleleri hattına gidecek eşyalar beklerken zarar görmez. İlçenin mahallesi için randevu saatleri sıkışmadan ayarlanır.</p><h2>Eşya Depolama Hizmetleri</h2><p>Eşya depolama hizmetleri; ev, ofis, arşiv ve e-ticaret gibi farklı ihtiyaçlara göre ayrılır. Ev grubunda mobilya koruması öne çıkar. Ofiste demirbaş ve evrak düzeni gerekir. E-ticarette barkod ve toplama düzeni hız kazandırır. Arşivde raf kodu ve erişim listesi gerekir. Sözleşme her türde şartları belirler. Sigorta poliçesi teminatı netleştirir. İstanbul Geneli ve tüm ilçeleri, mahalleleri yönünde taşınma planı varsa geçiş odası ayrılır. İlçe-mahalle erişimi randevuyla çözümlenir.</p><h2>Eşya Depolama ve Evden Eve Nakliyat</h2><p>Eşya depolama ve evden eve nakliyat aynı zincirin iki halkasıdır. Taşıma gününde asansörlü taşıma kurarız. Kırılacak ürünler köpük ve köşebentle korunur. Beyaz eşyada bağlantı sökümü yapılır. Depoya girişte envanterle karşılaştırma yapılır. Teslimde tutanakla çıkış alınır. Hamallık bedeli kalemleri teklifte yazar. İstanbul ve Tüm ilçelerinde taşınmalarında teslim tarihi netleşene kadar depoda bekletiriz. İlçenin mahallesi için araç yaklaşımı önceden kontrol edilir.</p><h2>Eşya Depolama Fiyatı</h2><p>Eşya depolama fiyatı, metreküp, süre ve erişim planına göre oluşur. Oda tipi büyüdükçe maliyet artar. Süre uzadıkça birim fiyat düşebilir. Sigorta teminatı fiyata dahil edilebilir. Paketleme kalemi streç ve köpükle belirlenir. Asansörlü taşıma gerekiyorsa teklif kalemine eklenir. İstanbul Geneli ve tüm ilçeleri, mahalleleri taşınmalarında geçiş süresi fiyatı etkiler. İlçe-mahalle mesafesi de nakliyat kaleminde rol oynar. Net tablo için önce ekspertiz yapılır.</p><h2>Profesyonel Eşya Depolama</h2><p>Profesyonel eşya depolama, kayıt ve kontrol düzeni kurmaktır. Girişte kimlik doğrulanır, log oluşturulur. Kamera arşivi denetime hazır tutulur. Nem ve sıcaklık sensörü düzenli veri üretir. Oda kilidi ayrı tutulur. Envanter tutanağı fotoğrafla desteklenir. Depo denetimi raporla işlenir. İstanbul ve Tüm ilçelerinde taşınmalarında bekleme süresi uzasa da düzen bozulmaz. İlçenin mahallesi randevusu zaman kaybını azaltır.</p><h2>Eşya Depolama Şirketi</h2><p>Eşya depolama şirketi seçerken sözleşme metni ilk kriter olmalıdır. Sorumluluk sınırları açık yazılı olmalıdır. Sigorta poliçesi numarası mutlaka sunulmalıdır. Kamera sistemi yalnızca var demek yetmez; arşiv süresi sorulmalıdır. Tesisin jeneratör desteği kesintide koruma sağlar. Nem kontrolü mobilyayı korur. İstanbul Geneli ve tüm ilçeleri, mahalleleri taşınmasına hazırlananlar geçiş depolamasını da sormalıdır. İlçe-mahalle planı adres doğruluğu için önem taşır.</p><h2>Evden Eve Eşya Depolama</h2><p>Evden eve eşya depolama, ev taşıma temposunu bölerek yönetir. Önce eşyayı paketler, naklederiz. Depoda size ait oda ayrılır. Koli numaralarıyla yerleşim düzeni kurulur. Erişim randevuyla açılır. Böylece parça parça taşınma kolaylaşır. İstanbul ve Tüm ilçelerinde’ya taşınırken yeni evin teslim tarihi gecikebilir. Bu durumda geçiş odası rahatlık sağlar. İlçenin mahallesi için araç yaklaşımı ve asansör kurulumu planlanır.</p><h2>Kiralık Eşya Depolama</h2><p>Kiralık eşya depolama, süre ve oda tipinin kiralama sözleşmesine bağlanmasıdır. Aylık kiralamada fiyat ve teminat limiti netleşir. Yıllık kiralamada plan daha öngörülebilir olur. Erişim sıklığını baştan konuşmak gerekir. Anahtar yönetimi size bağlı kalır. Giriş-çıkış kayıtları loglanır. İstanbul Geneli ve tüm ilçeleri, mahalleleri taşınmalarında kiralama süresi çoğu zaman ara dönemdir. İlçe ve mahalle yoğunluğu randevu takvimini etkiler.</p><h2>Eşya Depolama Şirketleri</h2><p>Eşya depolama şirketleri arasında fark, süreç ayrıntılarında ortaya çıkar. Ekspertiz var mı, yok mu; bu soruyu sorun. Envanter tutanağı hazırlıyor mu; mutlaka öğrenin. Kamera arşivi kaç gün saklanıyor; net yanıt alın. Nem kontrolü ve dezenfeksiyon programı kayıtlı olmalıdır. Sözleşme maddeleri kısa ve anlaşılır olmalıdır. İstanbul Geneli ve tüm ilçeleri, mahalleleri yönünde taşınacak eşya için geçiş depolaması sunuyor mu; kontrol edin. İlçenin mahallesi bazında servis planı çıkarabiliyor mu; sorun.</p><h2>Güvenli Eşya Depolama</h2><p>Güvenli eşya depolama, birden çok katmanın birlikte işlemesidir. Kilitli oda ile temas sınırlandırılır. 7/24 kamera ile hareket kayıt altına alınır. Giriş-çıkış logu kimlikle tutulur. Yangın algılama ve alarm hatları test edilir. Nem kontrolü mobilya ve tekstili korur. Periyodik denetim raporu eksikleri gösterir. İstanbul Geneli ve tüm ilçeleri, mahalleleri taşınmalarında bekleme uzasa da güvenlik düzeni sürer. İlçe-mahalle randevusu teslimat kalabalığını azaltır.</p><h2>Eşya Depolama Firması</h2><p>Eşya depolama firmasıyla çalışırken teklif kalemlerini yazılı alın. Paketleme malzemesi türü belirtilmelidir. Asansörlü taşıma kurulumu açıkça yazılmalıdır. Hamallık bedeli kalemi net olmalıdır. Sigorta poliçesi kapsamı gösterilmelidir. Sözleşme imzası olmadan depoya giriş yapılmamalıdır. İstanbul ve Tüm ilçelerinde güzergâhında plan varsa geçiş süresi eklenmelidir. İlçenin mahallesi için park ve yükleme alanı kontrol edilmelidir.</p><h2>Ucuz Eşya Depolama</h2><p>Ucuz eşya depolama ararken yalnız fiyata bakmak doğru olmaz. Metreküp hesabı şişirilmişse düşük fiyat aldatır. Envanter tutanağı yoksa kayıp riski artar. Kamera kaydı yoksa denetim zorlaşır. Nem kontrolü yoksa mobilya zarar görebilir. Bu nedenle fiyatı, içerikle birlikte karşılaştırın. İstanbul Geneli ve tüm ilçeleri, mahalleleri taşınmalarında geçiş odası ücreti ayrıca konuşulmalıdır. İlçe-mahalle servis saatleri doğru yazılınca ekstra nakliyat masrafı azalır.</p><h2>Eşya Depolama Firmaları</h2><p>Eşya depolama firmaları içinde karar verirken üç belge isteyin. Birincisi sözleşme örneği olmalı. İkincisi sigorta poliçesi teminat sayfası olmalı. Üçüncüsü envanter tutanağı şablonu olmalı. Bu belgeler süreci şeffaflaştırır. Tesisin jeneratör desteğini ve haşere planını da sorun. İstanbul Geneli ve tüm ilçeleri, mahalleleri taşınmalarında teslim tarihi belirsizse esnek süre şarttır. İlçenin mahallesi için randevu takvimi net değilse bekleme yaşanır.</p><h2>Eşya Depolama Ücreti</h2><p>Eşya depolama ücreti, oda tipi ve kiralama süresine göre hesaplanır. Metreküp arttıkça oda büyür. Süre uzadıkça birim fiyat değişebilir. Sigorta dahilse teminat limiti ücrete yansır. Paketleme ve nakliyat ayrı kalem olabilir. Asansörlü taşıma gerekiyorsa bedel belirtilir. İstanbul ve Tüm ilçelerinde yönünde taşıma planı varsa geçiş dönemi de fiyata eklenir. İlçe-mahalle ulaşım mesafesi nakliyat maliyetini etkiler.</p><h2>En İyi Eşya Depolama</h2><p>En iyi eşya depolama, eşyayı hasarsız teslim edebilme disiplinidir. Paketleme standardı net olmalıdır. Koli numarası ve fotoğraf kaydı bulunmalıdır. Kilitli oda ile temas kontrol altına alınmalıdır. Kamera kaydı denetimde açılabilmelidir. Nem kontrolü düzenli yapılmalıdır. Sözleşme ve poliçe birlikte dosyalanmalıdır. İstanbul Geneli ve tüm ilçeleri, mahalleleri taşınmalarında geçiş depolaması bu standardı bozmamalıdır. İlçenin mahallesi planı teslim gününde gecikmeyi azaltır.</p><h2>Eşya Depolama Ücretleri</h2><p>Eşya depolama ücretleri karşılaştırılırken aynı metreküp üzerinden bakılmalıdır. Süre aynı değilse kıyas bozulur. Sigorta dahil mi, hariç mi; netleştirin. Erişim sıklığı ücrette rol oynar. Paketleme malzemesi türü de maliyeti etkiler. Nakliyat kalemi için ilçe ve mahalle mesafesi önem taşır. İstanbul ve Tüm ilçelerinde taşınmalarında geçiş süresi bazen ücretleri değiştirir. Net tablo için ekspertiz raporuna bakın.</p><h2>Güvenilir Eşya Depolama</h2><p>Güvenilir eşya depolama, hesap verilebilir kayıt düzeniyle başlar. Sözleşme imzalanır, şartlar yazılı olur. Envanter tutanağı imzalanır, fotoğraflar eklenir. Giriş-çıkış logu kimlikle tutulur. Kamera kayıtları arşivlenir, gerektiğinde açılır. Yangın ve alarm hatları test edilir. İstanbul Geneli ve tüm ilçeleri, mahalleleri hattına gidecek eşyalar için geçiş depolaması aynı disiplinle yürür. İlçenin mahallesi bazında randevu planı servis kalitesini artırır.</p>"
+  },
+  "cta": {
+    "title": "Hemen Teklif Alın!",
+    "description": "Profesyonel ekibimiz size en uygun depolama çözümünü sunmak için hazır."
+  }
+}

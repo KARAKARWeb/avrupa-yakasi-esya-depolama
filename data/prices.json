@@ -1,0 +1,103 @@
+{
+  "basePrice": 450,
+  "pricePerM2": 150,
+  "minPrice": 450,
+  "base": {
+    "1": 450,
+    "2": 800,
+    "3": 1100,
+    "5": 1700,
+    "10": 3000,
+    "20": 5500,
+    "30": 7800,
+    "50": 12000,
+    "100": 22000
+  },
+  "sizes": [
+    {
+      "id": "5m2",
+      "name": "5 m²",
+      "size": 5,
+      "price": 1700,
+      "description": "Küçük eşyalar için ideal"
+    },
+    {
+      "id": "10m2",
+      "name": "10 m²",
+      "size": 10,
+      "price": 3000,
+      "description": "1+1 daire eşyaları"
+    },
+    {
+      "id": "15m2",
+      "name": "15 m²",
+      "size": 15,
+      "price": 4200,
+      "description": "2+1 daire eşyaları"
+    },
+    {
+      "id": "20m2",
+      "name": "20 m²",
+      "size": 20,
+      "price": 5500,
+      "description": "3+1 daire eşyaları"
+    },
+    {
+      "id": "25m2",
+      "name": "25 m²",
+      "size": 25,
+      "price": 6800,
+      "description": "Büyük ev eşyaları"
+    }
+  ],
+  "discounts": [
+    {
+      "months": 3,
+      "percentage": 10
+    },
+    {
+      "months": 6,
+      "percentage": 15
+    },
+    {
+      "months": 12,
+      "percentage": 20
+    }
+  ],
+  "services": {
+    "tasima": 300,
+    "montaj": 200,
+    "ambalaj": 150,
+    "klimali": 100,
+    "sigorta": 150
+  },
+  "packages": [
+    {
+      "id": "paket-1",
+      "name": "Ekonomik Paket",
+      "volume": 5,
+      "duration": 3,
+      "price": 4590,
+      "discount": 10,
+      "featured": false
+    },
+    {
+      "id": "paket-2",
+      "name": "Standart Paket",
+      "volume": 10,
+      "duration": 6,
+      "price": 15300,
+      "discount": 15,
+      "featured": true
+    },
+    {
+      "id": "paket-3",
+      "name": "Premium Paket",
+      "volume": 20,
+      "duration": 12,
+      "price": 52800,
+      "discount": 20,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "id": "paketleme",
+      "icon": "Package",
+      "title": "Profesyonel Paketleme",
+      "description": "Uzman ekibimiz eşyalarınızı özenle paketler. Özel ambalaj malzemeleri ile tam koruma.",
+      "order": 1
+    },
+    {
+      "id": "ekip",
+      "icon": "Users",
+      "title": "Deneyimli Ekip",
+      "description": "Alanında uzman, eğitimli ve sigortalı personelimizle güvenli hizmet.",
+      "order": 2
+    },
+    {
+      "id": "temizlik",
+      "icon": "Sparkles",
+      "title": "Hijyen ve Temizlik",
+      "description": "Depolarımız düzenli olarak temizlenir ve dezenfekte edilir. Hijyenik ortam garantisi.",
+      "order": 3
+    },
+    {
+      "id": "nakliyat",
+      "icon": "Truck",
+      "title": "Evden Eve Nakliyat",
+      "description": "Profesyonel nakliyat hizmetimizle eşyalarınızı güvenle taşıyoruz.",
+      "order": 4
+    },
+    {
+      "id": "danismanlik",
+      "icon": "Headphones",
+      "title": "Depolama Danışmanlığı",
+      "description": "Uzman ekibimiz size en uygun depolama çözümünü önerir. Ücretsiz keşif ve danışmanlık.",
+      "order": 5
+    },
+    {
+      "id": "asansor",
+      "icon": "MoveVertical",
+      "title": "Asansörlü Taşıma",
+      "description": "Yüksek katlarda asansörlü taşıma hizmeti. Eşyalarınız güvenle ve kolayca taşınır.",
+      "order": 6
+    }
+  ]
+}

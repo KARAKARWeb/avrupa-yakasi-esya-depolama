@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@esyadepolama.com",
+      "password": "$2b$10$6rSv8wdPbac/WNMD5HZnvu0.PIwUsZ1jB/k8/YYoz0K9aksiL2Sl.",
+      "role": "admin",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

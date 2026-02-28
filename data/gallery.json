@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "id": "1",
+      "src": "https://placehold.co/600x600/0066CC/FFFFFF/png?text=Depo+Görünümü",
+      "alt": "Modern eşya depolama tesisi genel görünüm",
+      "title": "Modern Depo Tesisimiz"
+    },
+    {
+      "id": "2",
+      "src": "https://placehold.co/600x600/FF6B35/FFFFFF/png?text=Güvenlik+Sistemi",
+      "alt": "7/24 kamera güvenlik sistemi",
+      "title": "7/24 Güvenlik Kamerası"
+    },
+    {
+      "id": "3",
+      "src": "https://placehold.co/600x600/0066CC/FFFFFF/png?text=Klimalı+Depo",
+      "alt": "Klimalı eşya depolama alanı",
+      "title": "Klimalı Depolama Alanları"
+    },
+    {
+      "id": "4",
+      "src": "https://placehold.co/600x600/FF6B35/FFFFFF/png?text=Geniş+Koridor",
+      "alt": "Geniş ve ferah depo koridorları",
+      "title": "Geniş Koridorlar"
+    },
+    {
+      "id": "5",
+      "src": "https://placehold.co/600x600/0066CC/FFFFFF/png?text=Araç+Depo",
+      "alt": "Araç depolama alanı",
+      "title": "Araç Depolama"
+    },
+    {
+      "id": "6",
+      "src": "https://placehold.co/600x600/FF6B35/FFFFFF/png?text=Ofis+Arşiv",
+      "alt": "Ofis ve arşiv depolama",
+      "title": "Ofis Arşiv Depolama"
+    },
+    {
+      "id": "7",
+      "src": "https://placehold.co/600x600/0066CC/FFFFFF/png?text=Paketleme",
+      "alt": "Profesyonel paketleme hizmeti",
+      "title": "Paketleme Hizmeti"
+    },
+    {
+      "id": "8",
+      "src": "https://placehold.co/600x600/FF6B35/FFFFFF/png?text=Taşıma",
+      "alt": "Eşya taşıma hizmeti",
+      "title": "Taşıma Hizmeti"
+    }
+  ]
+}

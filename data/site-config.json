@@ -1,0 +1,50 @@
+{
+  "site": {
+    "domain": "avrupayakasiesyadepolama.com",
+    "name": "Avrupa Yakası Eşya Depolama",
+    "title": "Avrupa Yakası Eşya Depolama - Güvenli ve Uygun Fiyatlı Self Storage",
+    "description": "İstanbul Avrupa Yakası'nda güvenli eşya depolama hizmeti. 7/24 kamera, klimalı depolar, uygun fiyatlar. Hemen teklif alın!",
+    "keywords": [
+      "eşya depolama",
+      "self storage",
+      "avrupa yakası eşya depolama",
+      "güvenli depolama",
+      "uygun fiyat"
+    ]
+  },
+  "contact": {
+    "phone": "+90 532 138 4979",
+    "whatsapp": "+90 532 138 4979",
+    "email": "info@avrupayakasiesyadepolama.com",
+    "address": "Halkalı Merkez Mah. Zeynebiye Cad. No:51, 34303 Küçükçekmece/İstanbul"
+  },
+  "location": {
+    "city": "İstanbul",
+    "region": "Avrupa Yakası",
+    "lat": "41.0422",
+    "lng": "29.0078"
+  },
+  "social": {
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/",
+    "twitter": "https://twitter.com/",
+    "linkedin": "https://linkedin.com/company/"
+  },
+  "business": {
+    "hours": {
+      "weekdays": {
+        "open": "08:00",
+        "close": "18:00"
+      },
+      "saturday": {
+        "open": "10:00",
+        "close": "18:00"
+      },
+      "sunday": {
+        "open": "10:00",
+        "close": "15:00"
+      }
+    },
+    "googleBusinessUrl": ""
+  }
+}

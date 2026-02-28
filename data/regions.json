@@ -1,0 +1,204 @@
+{
+  "regions": [
+    {
+      "id": "arnavutkoy",
+    "name": "Arnavutköy",
+    "slug": "arnavutkoy-esya-depolama",
+    "description": "Arnavutköy'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Arnavutköy, İstanbul'un gelişen ilçelerinden biridir. Arnavutköy'de eşya depolama hizmeti arıyorsanız, güvenli ve uygun fiyatlı çözümlerimizle yanınızdayız.",
+    "coordinates": { "lat": "41.1833", "lng": "28.7333" }
+  },
+  {
+    "id": "bahcelievler",
+    "name": "Bahçelievler",
+    "slug": "bahcelievler-esya-depolama",
+    "description": "Bahçelievler'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Bahçelievler'de profesyonel ekibimizle taşıma ve paketleme hizmetleri de mevcuttur.",
+    "coordinates": { "lat": "41.0000", "lng": "28.8500" }
+  },
+  {
+    "id": "basaksehir",
+    "name": "Başakşehir",
+    "slug": "basaksehir-esya-depolama",
+    "description": "Başakşehir'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Başakşehir'de modern depolarımızda eşyalarınızı güvenle saklayabilirsiniz.",
+    "coordinates": { "lat": "41.0833", "lng": "28.8000" }
+  },
+  {
+    "id": "bayrampasa",
+    "name": "Bayrampaşa",
+    "slug": "bayrampasa-esya-depolama",
+    "description": "Bayrampaşa'da güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Bayrampaşa'da ev eşyası, ofis eşyası ve arşiv depolama hizmetleri sunuyoruz.",
+    "coordinates": { "lat": "41.0500", "lng": "28.9167" }
+  },
+  {
+    "id": "beyoglu",
+    "name": "Beyoğlu",
+    "slug": "beyoglu-esya-depolama",
+    "description": "Beyoğlu'nda güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Beyoğlu, İstanbul'un kültür ve sanat merkezidir. Güvenli depolama çözümlerimizle yanınızdayız.",
+    "coordinates": { "lat": "41.0333", "lng": "28.9833" }
+  },
+  {
+    "id": "buyukcekmece",
+    "name": "Büyükçekmece",
+    "slug": "buyukcekmece-esya-depolama",
+    "description": "Büyükçekmece'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Büyükçekmece'de modern depolarımızda eşyalarınızı güvenle saklayabilirsiniz.",
+    "coordinates": { "lat": "41.0167", "lng": "28.5833" }
+  },
+  {
+    "id": "catalca",
+    "name": "Çatalca",
+    "slug": "catalca-esya-depolama",
+    "description": "Çatalca'da güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Çatalca'da ev eşyası, ofis eşyası ve araç depolama hizmetleri sunuyoruz.",
+    "coordinates": { "lat": "41.1417", "lng": "28.4611" }
+  },
+  {
+    "id": "esenler",
+    "name": "Esenler",
+    "slug": "esenler-esya-depolama",
+    "description": "Esenler'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Esenler'de profesyonel ekibimizle taşıma ve paketleme hizmetleri de mevcuttur.",
+    "coordinates": { "lat": "41.0417", "lng": "28.8833" }
+  },
+  {
+    "id": "eyupsultan",
+    "name": "Eyüpsultan",
+    "slug": "eyupsultan-esya-depolama",
+    "description": "Eyüpsultan'da güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Eyüpsultan'da ev eşyası, ofis eşyası ve arşiv depolama hizmetleri sunuyoruz.",
+    "coordinates": { "lat": "41.0500", "lng": "28.9333" }
+  },
+  {
+    "id": "fatih",
+    "name": "Fatih",
+    "slug": "fatih-esya-depolama",
+    "description": "Fatih'te güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Fatih, İstanbul'un tarihi merkezi ilçesidir. Güvenli depolama çözümlerimizle yanınızdayız.",
+    "coordinates": { "lat": "41.0167", "lng": "28.9500" }
+  },
+  {
+    "id": "gaziosmanpasa",
+    "name": "Gaziosmanpaşa",
+    "slug": "gaziosmanpasa-esya-depolama",
+    "description": "Gaziosmanpaşa'da güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Gaziosmanpaşa'da profesyonel ekibimizle taşıma ve paketleme hizmetleri de mevcuttur.",
+    "coordinates": { "lat": "41.0667", "lng": "28.9167" }
+  },
+  {
+    "id": "gungoren",
+    "name": "Güngören",
+    "slug": "gungoren-esya-depolama",
+    "description": "Güngören'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Güngören'de modern depolarımızda eşyalarınızı güvenle saklayabilirsiniz.",
+    "coordinates": { "lat": "41.0167", "lng": "28.8667" }
+  },
+  {
+    "id": "kagithane",
+    "name": "Kâğıthane",
+    "slug": "kagithane-esya-depolama",
+    "description": "Kâğıthane'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Kâğıthane'de ev eşyası, ofis eşyası ve arşiv depolama hizmetleri sunuyoruz.",
+    "coordinates": { "lat": "41.0833", "lng": "28.9667" }
+  },
+  {
+    "id": "kucukcekmece",
+    "name": "Küçükçekmece",
+    "slug": "kucukcekmece-esya-depolama",
+    "description": "Küçükçekmece'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Küçükçekmece'de profesyonel ekibimizle taşıma ve paketleme hizmetleri de mevcuttur.",
+    "coordinates": { "lat": "41.0000", "lng": "28.7833" }
+  },
+  {
+    "id": "sultangazi",
+    "name": "Sultangazi",
+    "slug": "sultangazi-esya-depolama",
+    "description": "Sultangazi'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Sultangazi'de ev eşyası, ofis eşyası ve arşiv depolama hizmetleri sunuyoruz.",
+    "coordinates": { "lat": "41.1000", "lng": "28.8833" }
+  },
+  {
+    "id": "avcilar",
+    "name": "Avcılar",
+    "slug": "avcilar-esya-depolama",
+    "description": "Avcılar'da güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Avcılar'da modern depolarımızda eşyalarınızı güvenle saklayabilirsiniz.",
+    "coordinates": { "lat": "40.9833", "lng": "28.7167" }
+  },
+  {
+    "id": "bagcilar",
+    "name": "Bağcılar",
+    "slug": "bagcilar-esya-depolama",
+    "description": "Bağcılar'da güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Bağcılar'da profesyonel ekibimizle taşıma ve paketleme hizmetleri de mevcuttur.",
+    "coordinates": { "lat": "41.0333", "lng": "28.8500" }
+  },
+  {
+    "id": "bakirkoy",
+    "name": "Bakırköy",
+    "slug": "bakirkoy-esya-depolama",
+    "description": "Bakırköy'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Bakırköy'de ev eşyası, ofis eşyası ve arşiv depolama hizmetleri sunuyoruz.",
+    "coordinates": { "lat": "40.9833", "lng": "28.8667" }
+  },
+  {
+    "id": "besiktas",
+    "name": "Beşiktaş",
+    "slug": "besiktas-esya-depolama",
+    "description": "Beşiktaş'ta güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Beşiktaş, İstanbul'un prestijli ilçelerinden biridir. Güvenli depolama çözümlerimizle yanınızdayız.",
+    "coordinates": { "lat": "41.0422", "lng": "29.0078" }
+  },
+  {
+    "id": "beylikduzu",
+    "name": "Beylikdüzü",
+    "slug": "beylikduzu-esya-depolama",
+    "description": "Beylikdüzü'nde güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Beylikdüzü'nde modern depolarımızda eşyalarınızı güvenle saklayabilirsiniz.",
+    "coordinates": { "lat": "41.0000", "lng": "28.6500" }
+  },
+  {
+    "id": "esenyurt",
+    "name": "Esenyurt",
+    "slug": "esenyurt-esya-depolama",
+    "description": "Esenyurt'ta güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Esenyurt'ta profesyonel ekibimizle taşıma ve paketleme hizmetleri de mevcuttur.",
+    "coordinates": { "lat": "41.0333", "lng": "28.6833" }
+  },
+  {
+    "id": "sariyer",
+    "name": "Sarıyer",
+    "slug": "sariyer-esya-depolama",
+    "description": "Sarıyer'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Sarıyer'de ev eşyası, ofis eşyası ve arşiv depolama hizmetleri sunuyoruz.",
+    "coordinates": { "lat": "41.1667", "lng": "29.0500" }
+  },
+  {
+    "id": "silivri",
+    "name": "Silivri",
+    "slug": "silivri-esya-depolama",
+    "description": "Silivri'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Silivri'de modern depolarımızda eşyalarınızı güvenle saklayabilirsiniz.",
+    "coordinates": { "lat": "41.0750", "lng": "28.2456" }
+  },
+  {
+    "id": "sisli",
+    "name": "Şişli",
+    "slug": "sisli-esya-depolama",
+    "description": "Şişli'de güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Şişli'de profesyonel ekibimizle taşıma ve paketleme hizmetleri de mevcuttur.",
+    "coordinates": { "lat": "41.0608", "lng": "28.9875" }
+  },
+  {
+    "id": "zeytinburnu",
+    "name": "Zeytinburnu",
+    "slug": "zeytinburnu-esya-depolama",
+    "description": "Zeytinburnu'nda güvenli ve uygun fiyatlı eşya depolama hizmeti.",
+    "content": "Zeytinburnu'nda ev eşyası, ofis eşyası ve arşiv depolama hizmetleri sunuyoruz.",
+    "coordinates": { "lat": "41.0000", "lng": "28.9000" }
+  }
+  ]
+}

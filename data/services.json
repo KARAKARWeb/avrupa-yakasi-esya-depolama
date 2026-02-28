@@ -1,0 +1,67 @@
+{
+  "services": [
+    {
+      "id": "esya-depolama",
+      "icon": "Warehouse",
+      "title": "Eşya Depolama Hizmeti",
+      "description": "Her türlü eşyanız için güvenli ve esnek depolama çözümleri sunuyoruz.",
+      "order": 1
+    },
+    {
+      "id": "ev-esyasi",
+      "icon": "Home",
+      "title": "Ev Eşyası Depolama",
+      "description": "Ev eşyalarınızı güvenle depolayın. Mobilya, beyaz eşya ve tüm ev eşyaları için.",
+      "order": 2
+    },
+    {
+      "id": "ofis-esyasi",
+      "icon": "Briefcase",
+      "title": "Ofis Eşyası Depolama",
+      "description": "Ofis mobilyaları, arşiv ve ekipmanlarınız için profesyonel depolama.",
+      "order": 3
+    },
+    {
+      "id": "kurumsal",
+      "icon": "Building2",
+      "title": "Kurumsal Depolama",
+      "description": "Şirketlerin büyük ölçekli depolama ihtiyaçları için özel kurumsal çözümler.",
+      "order": 4
+    },
+    {
+      "id": "arsiv-evrak",
+      "icon": "FileText",
+      "title": "Arşiv / Evrak Depolama",
+      "description": "Belgeleriniz ve arşivleriniz için güvenli, düzenli ve erişilebilir depolama.",
+      "order": 5
+    },
+    {
+      "id": "e-ticaret",
+      "icon": "ShoppingCart",
+      "title": "E-Ticaret Depolama",
+      "description": "E-ticaret işletmeleri için stok yönetimi ve hızlı sevkiyat desteği.",
+      "order": 6
+    },
+    {
+      "id": "koli",
+      "icon": "Package",
+      "title": "Koli Depolama",
+      "description": "Koli bazında esnek depolama hizmeti. İhtiyacınız kadar alan kullanın.",
+      "order": 7
+    },
+    {
+      "id": "ozel-esya",
+      "icon": "Star",
+      "title": "Özel Eşya Depolama",
+      "description": "Değerli eşyalarınız için özel koruma ve güvenlik önlemleri ile depolama.",
+      "order": 8
+    },
+    {
+      "id": "parca-esya",
+      "icon": "Box",
+      "title": "Parça Eşya Depolama",
+      "description": "Küçük eşyalarınız için uygun fiyatlı ve güvenli parça depolama hizmeti.",
+      "order": 9
+    }
+  ]
+}

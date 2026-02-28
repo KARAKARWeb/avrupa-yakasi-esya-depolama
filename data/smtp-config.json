@@ -1,0 +1,14 @@
+{
+  "host": "smtp.yandex.com",
+  "port": 465,
+  "secure": true,
+  "auth": {
+    "user": "info@avrupayakasiesyadepolama.com",
+    "pass": ""
+  },
+  "from": {
+    "name": "Avrupa Yakası Eşya Depolama",
+    "email": "info@avrupayakasiesyadepolama.com"
+  },
+  "to": "info@avrupayakasiesyadepolama.com"
+}

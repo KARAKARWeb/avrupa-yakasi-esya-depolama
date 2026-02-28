@@ -1,0 +1,64 @@
+{
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "Eşya depolama fiyatları nedir?",
+      "answer": "Eşya depolama fiyatlarımız 1m³ için aylık 450₺'den başlamaktadır. Süreye göre indirimlerimiz mevcuttur. 3 ay için %10, 6 ay için %15, 1 yıl için %20 indirim uygulanmaktadır.",
+      "order": 1
+    },
+    {
+      "id": "faq-2",
+      "question": "Depolarınız güvenli mi?",
+      "answer": "Evet, tüm depolarımızda 7/24 kamera sistemi, alarm ve güvenlik görevlisi bulunmaktadır. Ayrıca tüm eşyalarınız sigortalıdır.",
+      "order": 2
+    },
+    {
+      "id": "faq-3",
+      "question": "Klimalı depo var mı?",
+      "answer": "Evet, klimalı depo seçeneğimiz mevcuttur. Hassas eşyalarınız için önerilir. Aylık 100₺ ekstra ücret ile klimalı depoda saklayabilirsiniz.",
+      "order": 3
+    },
+    {
+      "id": "faq-4",
+      "question": "Sigorta yapıyor musunuz?",
+      "answer": "Evet, tüm eşyalarınız için sigorta hizmeti sunuyoruz. Sigorta ücreti aylık 150₺'dir.",
+      "order": 4
+    },
+    {
+      "id": "faq-5",
+      "question": "Taşıma hizmeti veriyor musunuz?",
+      "answer": "Evet, profesyonel ekibimizle taşıma hizmeti sunuyoruz. Taşıma ücreti 300₺'den başlamaktadır. Belirli mesafe içinde ücretsiz taşıma kampanyalarımız mevcuttur.",
+      "order": 5
+    },
+    {
+      "id": "faq-6",
+      "question": "Minimum süre var mı?",
+      "answer": "Minimum 1 ay süre ile depolama yapabilirsiniz. Daha kısa süreler için lütfen bizimle iletişime geçin.",
+      "order": 6
+    },
+    {
+      "id": "faq-7",
+      "question": "Eşyalarıma ne zaman erişebilirim?",
+      "answer": "Çalışma saatlerimiz içinde (Pazartesi-Cuma 08:00-18:00, Cumartesi 10:00-18:00, Pazar 10:00-15:00) eşyalarınıza erişebilirsiniz. Önceden haber vermeniz yeterlidir.",
+      "order": 7
+    },
+    {
+      "id": "faq-8",
+      "question": "Ödeme nasıl yapılır?",
+      "answer": "Nakit, Havale/EFT veya Kredi Kartı ile ödeme yapabilirsiniz. Aylık veya dönemlik ödeme seçenekleri mevcuttur.",
+      "order": 8
+    },
+    {
+      "id": "faq-9",
+      "question": "İptal politikanız nedir?",
+      "answer": "1 ay önceden haber vererek sözleşmenizi iptal edebilirsiniz. Ödediğiniz ücret iade edilmez, ancak kalan süre için ücret alınmaz.",
+      "order": 9
+    },
+    {
+      "id": "faq-10",
+      "question": "Hangi bölgelere hizmet veriyorsunuz?",
+      "answer": "İstanbul Avrupa Yakası'nın tüm ilçelerine hizmet veriyoruz. Beşiktaş, Şişli, Bakırköy, Beyoğlu ve diğer 21 ilçede hizmetinizdeyiz.",
+      "order": 10
+    }
+  ]
+}

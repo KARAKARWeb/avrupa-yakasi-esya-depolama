@@ -1,0 +1,52 @@
+{
+  "reviews": [
+    {
+      "id": "review-1",
+      "name": "Ahmet Y.",
+      "rating": 5,
+      "comment": "Çok memnun kaldım, güvenli ve temiz. Kesinlikle tavsiye ederim. Eşyalarım 6 aydır burada, hiçbir sorun yaşamadım.",
+      "date": "2024-01-15",
+      "verified": true
+    },
+    {
+      "id": "review-2",
+      "name": "Ayşe K.",
+      "rating": 5,
+      "comment": "Profesyonel ekip, uygun fiyatlar. Taşıma hizmeti de çok iyi. Teşekkürler.",
+      "date": "2024-01-10",
+      "verified": true
+    },
+    {
+      "id": "review-3",
+      "name": "Mehmet S.",
+      "rating": 4,
+      "comment": "Güvenli ve temiz. Fiyatlar uygun. Tek eksik 7/24 erişim olmaması.",
+      "date": "2024-01-05",
+      "verified": true
+    },
+    {
+      "id": "review-4",
+      "name": "Zeynep A.",
+      "rating": 5,
+      "comment": "Ev taşınırken eşyalarımı 3 ay depoladım. Hiçbir sorun olmadı. Çok teşekkürler.",
+      "date": "2023-12-28",
+      "verified": true
+    },
+    {
+      "id": "review-5",
+      "name": "Can D.",
+      "rating": 5,
+      "comment": "Ofis eşyalarımızı depoladık. Güvenli, temiz ve profesyonel hizmet.",
+      "date": "2023-12-20",
+      "verified": true
+    },
+    {
+      "id": "review-6",
+      "name": "Elif T.",
+      "rating": 5,
+      "comment": "Klimalı depoda hassas eşyalarımı sakladım. Mükemmel hizmet.",
+      "date": "2023-12-15",
+      "verified": true
+    }
+  ]
+}

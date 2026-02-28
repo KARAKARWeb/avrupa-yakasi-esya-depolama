@@ -1,0 +1,35 @@
+{
+  "metaTemplates": {
+    "home": {
+      "title": "Avrupa Yakası Eşya Depolama - Güvenli ve Uygun Fiyatlı Self Storage",
+      "description": "İstanbul Avrupa Yakası'nda güvenli eşya depolama hizmeti. 7/24 kamera, klimalı depolar, uygun fiyatlar. Hemen teklif alın!",
+      "keywords": [
+        "eşya depolama",
+        "self storage",
+        "avrupa yakası",
+        "güvenli depolama"
+      ]
+    },
+    "region": {
+      "titleTemplate": "[Bölge] - Güvenli ve Uygun Fiyatlı | Avrupa Yakası Eşya Depolama",
+      "descriptionTemplate": "[Bölge]'de profesyonel eşya depolama hizmeti. Sigortalı, güvenli, uygun fiyatlı. Hemen teklif alın!"
+    },
+    "prices": {
+      "title": "Eşya Depolama Fiyatları - Uygun Paketler | Avrupa Yakası",
+      "description": "Eşya depolama fiyatlarımız ve kampanyalı paketlerimiz. 1m³'den 100m³'e kadar tüm ihtiyaçlarınız için uygun fiyatlar."
+    },
+    "about": {
+      "title": "Hakkımızda - Avrupa Yakası Eşya Depolama",
+      "description": "15 yıllık tecrübemizle İstanbul'da güvenli eşya depolama hizmeti sunuyoruz. Profesyonel ekip, modern tesisler."
+    },
+    "contact": {
+      "title": "İletişim - Avrupa Yakası Eşya Depolama",
+      "description": "Eşya depolama hizmeti için bizimle iletişime geçin. Telefon: +90 532 138 4979, WhatsApp, Email."
+    }
+  },
+  "analytics": {
+    "gaId": "",
+    "gtmId": "",
+    "gscVerification": ""
+  }
+}
