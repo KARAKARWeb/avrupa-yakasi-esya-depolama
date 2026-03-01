@@ -105,7 +105,7 @@ export default function Pricing({ prices, storagePrices: storagePricesProp, movi
         "name": `${item.type} Eşya Depolama`,
         "description": `${item.volume} metreküp depolama alanı - ${item.type} için uygun`,
         "image": "https://avrupayakasiesyadepolama.com/images/hero-bg.webp",
-        "url": "https://avrupayakasiesyadepolama.com/#fiyatlar",
+        "url": `https://avrupayakasiesyadepolama.com/#fiyatlar-${item.type.toLowerCase().replace(/\+/g, '-')}`,
         "offers": {
           "@type": "Offer",
           "price": item.price,
