@@ -106,6 +106,13 @@ export default function Pricing({ prices, storagePrices: storagePricesProp, movi
         "description": `${item.volume} metreküp depolama alanı - ${item.type} için uygun`,
         "image": "https://avrupayakasiesyadepolama.com/images/hero-bg.webp",
         "url": `https://avrupayakasiesyadepolama.com/#fiyatlar-${item.type.toLowerCase().replace(/\+/g, '-')}`,
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "680",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
         "offers": {
           "@type": "Offer",
           "price": item.price,
@@ -116,6 +123,42 @@ export default function Pricing({ prices, storagePrices: storagePricesProp, movi
           "seller": {
             "@type": "Organization",
             "name": "Eşya Depolama Hizmetleri"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0",
+              "currency": "TRY"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "TR",
+              "addressRegion": "İstanbul"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": "0",
+                "maxValue": "1",
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": "0",
+                "maxValue": "0",
+                "unitCode": "DAY"
+              }
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "TR",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": "30",
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/FreeReturn"
           }
         },
         "additionalProperty": [
